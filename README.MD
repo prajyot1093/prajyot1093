@@ -36,7 +36,6 @@ Git • Linux • Web3 Tooling
 ---
 
 ## Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot1093&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot1093&layout=compact&theme=github_dark&hide_border=true)
