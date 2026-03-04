@@ -1,67 +1,36 @@
-<h1 align="center">prajyot@github:~$ whoami</h1>
+# Prajyot
 
-<p align="center">
-Computer Science Undergraduate • Systems Builder • Research-Oriented Developer
-</p>
-
----
-
-## prajyot@github:~$ cat about.txt
-
-- B.Tech CSE @ YCCE Nagpur
-- Interested in Distributed Systems, Secure Infrastructure & Blockchain
-- Building research-driven, scalable architectures
-- Competitive Programming (Codeforces)
-- Strengthening OS • DBMS • CN • DSA foundations
+Computer Science Undergraduate  
+Focused on Systems, Blockchain, and Secure Infrastructure  
 
 ---
 
-## prajyot@github:~$ ls projects/
+## Projects
 
-📁 De-Science-Ledger  
-→ Decentralized research verification & data provenance system  
+### De-Science-Ledger
+Decentralized research verification system.
 
-📁 Smart-Exam-Seating  
-→ Constraint-based seating optimizer (Greedy + Backtracking)  
-
-📁 mern-apps/  
-→ Structured full-stack applications with clean backend design  
+### Smart Exam Seating
+Constraint-based optimization system.
 
 ---
 
-## prajyot@github:~$ cat research_interests.md
+## Tech Stack
 
-- Data Integrity & Provenance Systems  
-- Distributed Architectures  
-- Secure Network Design  
-- AI-Augmented Infrastructure  
-
----
-
-## prajyot@github:~$ ./tech_stack.sh
-
-Languages:    C | C++ | JavaScript | Solidity | Python  
-Backend:      Node.js | Express | MongoDB  
-Frontend:     React  
-Systems:      Linux | Git | REST APIs | Web3 Tooling  
+C | C++ | JavaScript | Solidity | Python  
+Node.js | Express | MongoDB  
+Linux | Git | REST APIs  
 
 ---
 
-## prajyot@github:~$ git stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot1093&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot1093&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot1093&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## prajyot@github:~$ uptime
-
-Consistent commits > flashy profiles  
-Structured systems > temporary hacks  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot1093&layout=compact&theme=github_dark)
 
 ---
 
-<p align="center">
-📫 <a href="YOUR_LINKEDIN">LinkedIn</a> • <a href="mailto:YOUR_EMAIL">Email</a>
-</p>
+## Contribution Activity
+
+![Snake animation](https://github.com/prajyot1093/prajyot1093/blob/output/github-contribution-grid-snake.svg)
