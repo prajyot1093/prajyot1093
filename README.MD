@@ -6,6 +6,8 @@ Prajyot Punde
 Computer Technology undergraduate at YCCE Nagpur.
 Focused on building secure, scalable, and research-driven systems.
 
+
+
 Current Focus
 
 🌐 Distributed Systems
@@ -18,6 +20,8 @@ Current Focus
 
 🏆 Competitive Programming
 
+
+
 🚀 Projects
 
 🧪 De-Science Ledger
@@ -29,6 +33,8 @@ Constraint-based seating optimizer (Greedy + Backtracking)
 💻 Full-Stack Applications
 Structured MERN projects with clean backend architecture
 
+
+
 🛠 Tech Stack
 
 Languages
@@ -39,6 +45,8 @@ Frontend / Backend
 
 Tools & Systems
 🐧 Linux • 🔧 Git • 🌍 Web3 Tooling
+
+
 
 📊 Activity
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyot1093&theme=github-dark&hide_border=true" /> </p>
