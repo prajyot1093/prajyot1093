@@ -1,47 +1,43 @@
-# Prajyot Punde  
-### Systems • Security • Scalable Infrastructure  
+          Prajyot Punde
+🧠 About
 
-[LinkedIn](YOUR_LINKEDIN) • [Email](mailto:YOUR_EMAIL)
+Computer Technology undergraduate at YCCE Nagpur.
+Focused on building secure, scalable, and research-driven systems.
 
----
+Current Focus
 
-## About
+🌐 Distributed Systems
 
-Computer Science undergraduate at YCCE Nagpur.  
-Interested in building secure, scalable, and research-driven systems.
+⛓ Blockchain Infrastructure
 
-Current focus:
-- Distributed Systems  
-- Blockchain Infrastructure  
-- Data Integrity & Provenance  
-- Core CS Fundamentals (OS, DBMS, CN, DSA)  
-- Competitive Programming  
+🛡 Data Integrity & Provenance
 
----
+🧩 Core CS Fundamentals (OS, DBMS, CN, DSA)
 
-## Projects
+🏆 Competitive Programming
 
-**De-Science Ledger** – Decentralized research verification and ownership system.  
-**Smart Exam Seating System** – Constraint-based seating optimizer (Greedy + Backtracking).  
-**Full-Stack Applications** – Structured MERN projects with clean backend architecture.
+🚀 Projects
 
----
+🧪 De-Science Ledger
+Decentralized research verification and ownership system
 
-## Tech Stack
+🪑 Smart Exam Seating System
+Constraint-based seating optimizer (Greedy + Backtracking)
 
-C • C++ • JavaScript • Solidity • Python  
-React • Node.js • Express • MongoDB  
-Git • Linux • Web3 Tooling  
+💻 Full-Stack Applications
+Structured MERN projects with clean backend architecture
 
----
+🛠 Tech Stack
 
-## Stats
+Languages
+C • C++ • JavaScript • Solidity • Python
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot1093&show_icons=true&theme=tokyonight&hide_border=true)
+Frontend / Backend
+⚛️ React • 🟢 Node.js • 🚂 Express • 🍃 MongoDB
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot1093&layout=compact&theme=tokyonight&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajyot1093&theme=github-dark)
+Tools & Systems
+🐧 Linux • 🔧 Git • 🌍 Web3 Tooling
 
----
-
-> Build systems that scale. Keep them secure.
+📊 Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyot1093&theme=github-dark&hide_border=true" /> </p>
+<p align="center"> <b>Build systems that scale. Keep them secure.</b> </p>
