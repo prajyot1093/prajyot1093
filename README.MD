@@ -1,92 +1,67 @@
-# Prajyot Punde  
-### 🧠 Building Secure, Intelligent Systems for the Real World  
+<h1 align="center">prajyot@github:~$ whoami</h1>
 
-[Email](mailto: prajyot1093@gmail.com)
-
----
-
-## About
-
-Computer Technology undergraduate at Yeshwantrao Chavan College of Engineering (YCCE), Nagpur.
-
-Focused on building systems that are technically sound, scalable, and security-conscious.  
-My interests sit at the intersection of:
-
-- Distributed Systems  
-- Blockchain Infrastructure  
-- Secure Data Architecture  
-- AI-Assisted Systems  
-- National-Scale Technical Infrastructure  
-
-I care more about strong foundations than surface-level hype.
+<p align="center">
+Computer Science Undergraduate • Systems Builder • Research-Oriented Developer
+</p>
 
 ---
 
-## 🎯 Current Direction
+## prajyot@github:~$ cat about.txt
 
-- Strengthening core CS fundamentals (OS, DBMS, CN, DSA)  
-- Competitive Programming 
-- Designing decentralized research infrastructure  
-- Exploring system-level design and security  
-
-Long-term aim: Contribute to high-impact, large-scale technical systems.
-
----
-
-## 🚀 Core Projects
-
-### De-Science Ledger  
-A decentralized research paper verification and provenance system.  
-Implements immutable ownership records, DAO-based validation, and NFT-backed copyright proof.
-
-### Smart Exam Seating System  
-Algorithm-based seating optimizer using Greedy + Backtracking.  
-Designed for fairness, constraint handling, and scalability.
-
-### MERN-Based Full Stack Applications  
-Built scalable web applications focusing on clean architecture and structured backend design.
+- B.Tech CSE @ YCCE Nagpur
+- Interested in Distributed Systems, Secure Infrastructure & Blockchain
+- Building research-driven, scalable architectures
+- Competitive Programming (Codeforces)
+- Strengthening OS • DBMS • CN • DSA foundations
 
 ---
 
-## 🧪 Research Interests
+## prajyot@github:~$ ls projects/
 
-- Data Provenance & Integrity  
-- Secure Distributed Networks  
-- Blockchain Governance Models  
+📁 De-Science-Ledger  
+→ Decentralized research verification & data provenance system  
+
+📁 Smart-Exam-Seating  
+→ Constraint-based seating optimizer (Greedy + Backtracking)  
+
+📁 mern-apps/  
+→ Structured full-stack applications with clean backend design  
+
+---
+
+## prajyot@github:~$ cat research_interests.md
+
+- Data Integrity & Provenance Systems  
+- Distributed Architectures  
+- Secure Network Design  
 - AI-Augmented Infrastructure  
-- Information Security Systems  
 
 ---
 
-## 🛠 Technical Stack
+## prajyot@github:~$ ./tech_stack.sh
 
-### Languages
-C • C++ • JavaScript • Solidity • Python
-
-### Web & Backend
-React • Node.js • Express • MongoDB
-
-### Systems & Tools
-Git • Linux • VS Code • Web3 Tooling • REST APIs
+Languages:    C | C++ | JavaScript | Solidity | Python  
+Backend:      Node.js | Express | MongoDB  
+Frontend:     React  
+Systems:      Linux | Git | REST APIs | Web3 Tooling  
 
 ---
 
-## 📊 Metrics
+## prajyot@github:~$ git stats
 
-## 📊 Metrics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot1093&show_icons=true&theme=github_dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot1093&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=prajyot1093&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot1093&layout=compact&theme=default)
-
-## 🧭 Philosophy
-
-- Build with structure  
-- Understand before implementing  
-- Optimize for long-term impact  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot1093&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-> Systems outlast individuals. Build them carefully.
+## prajyot@github:~$ uptime
+
+Consistent commits > flashy profiles  
+Structured systems > temporary hacks  
+
+---
+
+<p align="center">
+📫 <a href="YOUR_LINKEDIN">LinkedIn</a> • <a href="mailto:YOUR_EMAIL">Email</a>
+</p>
