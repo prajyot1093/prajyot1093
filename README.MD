@@ -1,4 +1,6 @@
-          Prajyot Punde
+Prajyot Punde
+
+
 🧠 About
 
 Computer Technology undergraduate at YCCE Nagpur.
