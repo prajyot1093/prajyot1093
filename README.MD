@@ -36,7 +36,7 @@ Git • Linux • Web3 Tooling
 ---
 
 ## Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prajyot1093&show_icons=true&theme=github_dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajyot1093&theme=tokyo-night&hide_border=true&area=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot1093&layout=compact&theme=github_dark&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajyot1093&theme=github-dark)
