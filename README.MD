@@ -1,35 +1,45 @@
-# Prajyot
+# Prajyot Punde  
+### Systems • Security • Scalable Infrastructure  
 
-Computer Science Undergraduate  
-Focused on Systems, Blockchain, and Secure Infrastructure  
+[LinkedIn](YOUR_LINKEDIN) • [Email](mailto:YOUR_EMAIL)
+
+---
+
+## About
+
+Computer Science undergraduate at YCCE Nagpur.  
+Interested in building secure, scalable, and research-driven systems.
+
+Current focus:
+- Distributed Systems  
+- Blockchain Infrastructure  
+- Data Integrity & Provenance  
+- Core CS Fundamentals (OS, DBMS, CN, DSA)  
+- Competitive Programming  
 
 ---
 
 ## Projects
 
-### De-Science-Ledger
-Decentralized research verification system.
-
-### Smart Exam Seating
-Constraint-based optimization system.
+**De-Science Ledger** – Decentralized research verification and ownership system.  
+**Smart Exam Seating System** – Constraint-based seating optimizer (Greedy + Backtracking).  
+**Full-Stack Applications** – Structured MERN projects with clean backend architecture.
 
 ---
 
 ## Tech Stack
 
-C | C++ | JavaScript | Solidity | Python  
-Node.js | Express | MongoDB  
-Linux | Git | REST APIs  
+C • C++ • JavaScript • Solidity • Python  
+React • Node.js • Express • MongoDB  
+Git • Linux • Web3 Tooling  
 
 ---
 
-## GitHub Stats
+## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot1093&show_icons=true&theme=github_dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot1093&layout=compact&theme=github_dark&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot1093&show_icons=true&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajyot1093&theme=github-dark)
+![Trophy](https://github-profile-trophy.vercel.app/?username=prajyot1093&theme=darkhub)
 ---
 
-## Contribution Activity
-
-![Snake animation](https://github.com/prajyot1093/prajyot1093/blob/output/github-contribution-grid-snake.svg)
+> Build systems that scale. Keep them secure.
