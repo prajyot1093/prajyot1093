@@ -73,13 +73,13 @@ Git • Linux • VS Code • Web3 Tooling • REST APIs
 
 ## 📊 Metrics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prajyot1093theme=default)
+## 📊 Metrics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajyot1093&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot1093&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=prajyot1093&theme=default)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot1093&layout=compact&theme=default)
 
 ## 🧭 Philosophy
 
