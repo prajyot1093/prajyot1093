@@ -1,6 +1,6 @@
-<br> <h1 align="center">Prajyot Punde</h1> <h3 align="center">⚙️ Systems • 🔐 Security • 🚀 Scalable Infrastructure</h3> <br> <p align="center"> <a 
+<br> <h1 align="center">Prajyot Punde</h1> <h3 align="center">⚙️ Systems • 🔐 Security • 🚀 Scalable Infrastructure</h3> <br> <p align="center"> <Twilight>
 # 💫 About Me:
-Computer Science undergraduate at YCCE Nagpur. Focused on building secure, scalable, and research-driven systems.
+Computer Technology undergraduate at YCCE Nagpur. Focused on building secure, scalable, and research-driven systems.
 
 
 ## 🌐 Socials:
