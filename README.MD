@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajyot</h1>
-<h3 align="center">A Computer Technology undergraduate at YCCE Nagpur. Focused on building secure, scalable, and research-driven systems.e frontend developer from India</h3>
+<h3 align="center">A Computer Technology undergraduate at YCCE Nagpur. Focused on building secure, scalable, and research-driven systems </h3>
 
 <img align="left" src="https://orhun.dev/img/crow.png">
  
