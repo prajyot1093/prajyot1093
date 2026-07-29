@@ -9,3 +9,6 @@ Likes to write code. **Scroll down!**
 
 -----
 
+<p align="center">
+  <img src="https://github.com/prajyot1093/prajyot1093/blob/main/github-user-contribution.svg" alt="snake">
+</p>
