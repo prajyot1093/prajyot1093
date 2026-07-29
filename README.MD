@@ -3,7 +3,7 @@
 
 <img align="left" src="https://orhun.dev/img/crow.png">
  
-[![linkedin](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/prajyot-punde-26188225b/)  
+[![linkedin](https://img.shields.io/badge/-@prajyot1093-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/prajyot-punde-26188225b/)  
 
 Likes to write code. **Scroll down!**
 
