@@ -8,7 +8,6 @@
 Likes to write code. **Scroll down!**
 
 -----
-
 <p align="center">
-  <img src="https://github.com/prajyot1093/prajyot1093/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
