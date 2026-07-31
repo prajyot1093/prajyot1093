@@ -8,3 +8,4 @@
 Likes to write code. **Scroll down!**
 
 -----
+<br> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyot1093&theme=github-dark&hide_border=true" /> </p>
